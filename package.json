@@ -12,7 +12,7 @@
     "core-js": "^3.6.4",
     "file-saver": "^2.0.2",
     "html2canvas": "^1.0.0-rc.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jszip": "^3.4.0",
     "qrcanvas": "^3.1.1",
     "qrcode": "^1.4.4",
